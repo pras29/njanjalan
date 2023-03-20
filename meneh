@@ -1,0 +1,1145 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Email user165@kliniktv.tech" tvg-logo="" group-title="AKUN INFO", Email user165@kliniktv.tech
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/accountInfo/account_info_email/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Expire pada 18-April-2025" tvg-logo="" group-title="AKUN INFO", Expire pada 18-April-2023
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/accountInfo/account_info_exp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jumlah device maximum 1" tvg-logo="" group-title="AKUN INFO", Jumlah device maximum 1
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/accountInfo/account_info_max/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="https://x1.cdn.broiptv.com/img/bein1.png" group-title="SPORTS", beIN Sports 1
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/bein1_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="https://x1.cdn.broiptv.com/img/bein2.png" group-title="SPORTS", beIN Sports 3
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/bein2_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UseeSports" tvg-logo="https://x1.cdn.broiptv.com/img/useesports1.png" group-title="SPORTS", UseeSports
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/useesport_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UseeSports 2" tvg-logo="https://x1.cdn.broiptv.com/img/useesports2.png" group-title="SPORTS", UseeSports 2
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/useesports2_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Channel" tvg-logo="https://x1.cdn.broiptv.com/img/natgeo.png" group-title="KNOWLEDGE", National Geographic Channel
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/natgeo_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="https://x1.cdn.broiptv.com/img/natgeowild.png" group-title="KNOWLEDGE", National Geographic Wild
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/natgeowild_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://x1.cdn.broiptv.com/img/discovery.png" group-title="KNOWLEDGE", Discovery Channel
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/disco_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tech Storm" tvg-logo="https://x1.cdn.broiptv.com/img/techstorm.png" group-title="KNOWLEDGE", Tech Storm
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/techstorm_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://x1.cdn.broiptv.com/img/nba.png" group-title="SPORTS", NBA TV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/nba_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UseePrime" tvg-logo="https://x1.cdn.broiptv.com/img/useeprime.png" group-title="LOCAL", UseePrime
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/useeprime_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sea Today (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/seatoday.png" group-title="NEWS", Sea Today (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/seatoday_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVOne (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/tvone.png" group-title="LOCAL", TVOne (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/tvone_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/tvri.png" group-title="LOCAL", TVRI (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/tvri_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://x1.cdn.broiptv.com/img/indosiar.png" group-title="LOCAL", Indosiar
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/indosiar_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/kompastv.png" group-title="LOCAL", Kompas TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/kompastv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/metrotv.png" group-title="LOCAL", Metro TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/metrotv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="https://x1.cdn.broiptv.com/img/net.png" group-title="LOCAL", Net TV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/net_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV" tvg-logo="https://x1.cdn.broiptv.com/img/rtv.png" group-title="LOCAL", Rajawali TV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/rtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RRI NET" tvg-logo="https://x1.cdn.broiptv.com/img/rri.png" group-title="LOCAL", RRI NET
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/rrinet_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV HD" tvg-logo="https://x1.cdn.broiptv.com/img/sctv.png" group-title="LOCAL", SCTV HD
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/sctv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7 (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/trans7.png" group-title="LOCAL", Trans 7 (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/trans7_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/transtv.png" group-title="LOCAL", Trans TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/transtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation" tvg-logo="https://x1.cdn.broiptv.com/img/crimeinvestigation.png" group-title="KNOWLEDGE", Crime Investigation
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/crimeinvestigation_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antara" tvg-logo="https://x1.cdn.broiptv.com/img/antara.png" group-title="LOCAL", Antara
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/antara_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://x1.cdn.broiptv.com/img/idx.png" group-title="NEWS", IDX
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/idx_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/beritasatu.png" group-title="NEWS", Berita Satu (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/beritasatu_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://x1.cdn.broiptv.com/img/citradrama.png" group-title="ENTERTAINMENT", Citra Drama
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/cdrama_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://x1.cdn.broiptv.com/img/dunialain.png" group-title="ENTERTAINMENT", Dunia Lain
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/dunialain_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW (English)" tvg-logo="https://x1.cdn.broiptv.com/img/dwtv.png" group-title="NEWS", DW (English)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/dwtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horee (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/horee.png" group-title="KIDS", Horee (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/horee_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="https://x1.cdn.broiptv.com/img/paramount.png" group-title="MOVIES", Paramount
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/paramount_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Family" tvg-logo="https://x1.cdn.broiptv.com/img/myfamily.png" group-title="MOVIES", My Family
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/myfamily_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Cinema Asia" tvg-logo="https://x1.cdn.broiptv.com/img/mycinemaasia.png" group-title="MOVIES", My Cinema Asia
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/mycinemaasia_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Cinema" tvg-logo="https://x1.cdn.broiptv.com/img/mycinema.png" group-title="MOVIES", My Cinema
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/mycinema_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="https://x1.cdn.broiptv.com/img/hits.png" group-title="MOVIES", Hits
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/hits_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="https://x1.cdn.broiptv.com/img/hits_movies.png" group-title="MOVIES", Hits Movies
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/hitsmovie_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JakTV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/jaktv.png" group-title="LOCAL", JakTV (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/jaktv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nusantara TV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/nusantaratv.png" group-title="LOCAL", Nusantara TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/nusantaratv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://x1.cdn.broiptv.com/img/jtv.png" group-title="LOCAL", JTV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/jtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUI TV" tvg-logo="https://x1.cdn.broiptv.com/img/tvmui.png" group-title="RELIGI", MUI TV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/muitv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I-Konser" tvg-logo="https://x1.cdn.broiptv.com/img/ikonser.png" group-title="MUSIC", I-Konser
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/ikonser_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="https://x1.cdn.broiptv.com/img/mtvlive.png" group-title="MUSIC", MTV Live
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/mtvlive_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV9 NU" tvg-logo="https://x1.cdn.broiptv.com/img/tv9.png" group-title="RELIGI", TV9 NU
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/tv9_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musik Indonesia" tvg-logo="https://x1.cdn.broiptv.com/img/musikindo.png" group-title="MUSIC", Musik Indonesia
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/musikindo_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlQuran Kareem (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/alquran.png" group-title="RELIGI", AlQuran Kareem (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/alquran_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="https://x1.cdn.broiptv.com/img/tawaftv.png" group-title="RELIGI", Tawaf TV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/tawaftv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://x1.cdn.broiptv.com/img/boomerang.png" group-title="KIDS", Boomerang
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/boomerang_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="https://x1.cdn.broiptv.com/img/mqtv.png" group-title="RELIGI", MQTV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/mqtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="https://x1.cdn.broiptv.com/img/celestialmovie.png" group-title="MOVIES", Celestial Movies
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/celestialmovie_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTATV" tvg-logo="https://x1.cdn.broiptv.com/img/mtatv.png" group-title="RELIGI", MTATV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/mtatv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muhammadiyah TV" tvg-logo="https://x1.cdn.broiptv.com/img/muhammadiyahtv.png" group-title="RELIGI", Muhammadiyah TV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/muhammadiyahtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="https://x1.cdn.broiptv.com/img/rodjatv.png" group-title="RELIGI", Rodja TV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/rodjatv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://x1.cdn.broiptv.com/img/animax.png" group-title="ENTERTAINMENT", Animax
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/animax_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://x1.cdn.broiptv.com/img/axn.png" group-title="MOVIES", AXN
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/axn_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="https://x1.cdn.broiptv.com/img/tvnmovies.png" group-title="MOVIES", TVN Movies
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/tvnmovies_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rock Extreme" tvg-logo="https://x1.cdn.broiptv.com/img/rock_extreme.png" group-title="ENTERTAINMENT", Rock Extreme
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/blueantextreme_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="https://x1.cdn.broiptv.com/img/abc_australia.png" group-title="NEWS", ABC Australia
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/abcaustralia_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://x1.cdn.broiptv.com/img/bioskopindonesia.png" group-title="MOVIES", Bioskop Indonesia
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/bioskopindonesia_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://x1.cdn.broiptv.com/img/cartoonnetwork.png" group-title="KIDS", Cartoon Network
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/cartoonnetwork_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://x1.cdn.broiptv.com/img/chinesedrama.png" group-title="ENTERTAINMENT", Chinese Drama
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/chinesedrama_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://x1.cdn.broiptv.com/img/lifetime.png" group-title="ENTERTAINMENT", Lifetime
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/lifetime_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAAI TV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/daaitv.png" group-title="LOCAL", DAAI TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/daaitv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://x1.cdn.broiptv.com/img/atv.png" group-title="ENTERTAINMENT", ATV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/atv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="https://x1.cdn.broiptv.com/img/flik.png" group-title="MOVIES", Flik
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/flik_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://x1.cdn.broiptv.com/img/galaxy.png" group-title="MOVIES", Galaxy
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/galaxy_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="https://x1.cdn.broiptv.com/img/galaxy_premium.png" group-title="MOVIES", Galaxy Premium
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/galaxypremium_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://x1.cdn.broiptv.com/img/thrill.png" group-title="MOVIES", Thrill
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/thrill_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://x1.cdn.broiptv.com/img/history.png" group-title="KNOWLEDGE", History
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/history_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iNews TV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/inews.png" group-title="LOCAL", iNews TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/inews_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNC News" tvg-logo="https://x1.cdn.broiptv.com/img/mncnews.png" group-title="LOCAL", MNC News
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/mncnews_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indonesiana TV" tvg-logo="https://x1.cdn.broiptv.com/img/indonesiana.png" group-title="LOCAL", Indonesiana TV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/indonesiana_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Seru!" tvg-logo="https://x1.cdn.broiptv.com/img/seru.png" group-title="ENTERTAINMENT", Seru!
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/seru_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moji (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/moji.png" group-title="LOCAL", Moji (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/ochannel_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kix" tvg-logo="https://x1.cdn.broiptv.com/img/kix.png" group-title="ENTERTAINMENT", Kix
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/kix_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prambors" tvg-logo="https://x1.cdn.broiptv.com/img/pramborstv.png" group-title="MUSIC", Prambors
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/pramborstv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://x1.cdn.broiptv.com/img/warner.png" group-title="MOVIES", Warner TV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/warner_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lingua" tvg-logo="https://x1.cdn.broiptv.com/img/linguachannel.png" group-title="KNOWLEDGE", Lingua
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/lingua_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://x1.cdn.broiptv.com/img/dreamworks.png" group-title="KIDS", Dreamworks
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/dreamworks_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://x1.cdn.broiptv.com/img/mykidz.png" group-title="KIDS", My Kidz
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/mykids_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IndiKids" tvg-logo="https://x1.cdn.broiptv.com/img/indikids.png" group-title="KIDS", IndiKids
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/indikids_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mentari TV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/mentari_tv.png" group-title="KIDS", Mentari TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/mentaritv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moonbug Kids" tvg-logo="https://x1.cdn.broiptv.com/img/moonbug.png" group-title="KIDS", Moonbug Kids
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/moonbug_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HITS Now" tvg-logo="https://x1.cdn.broiptv.com/img/hitsnow.png" group-title="ENTERTAINMENT", HITS Now
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/hitsnow_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="https://x1.cdn.broiptv.com/img/spotv.png" group-title="SPORTS", SPOTV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/spotv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV2" tvg-logo="https://x1.cdn.broiptv.com/img/spotv2.png" group-title="SPORTS", SPOTV2
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/spotv2_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://x1.cdn.broiptv.com/img/fight_sports.png" group-title="SPORTS", Fight Sports
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/fightsport_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT World (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/trtworld.png" group-title="NEWS", TRT World (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/trtworld_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://x1.cdn.broiptv.com/img/hgtv.png" group-title="KNOWLEDGE", HGTV
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/hgtv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kplus" tvg-logo="https://x1.cdn.broiptv.com/img/kplus.png" group-title="ENTERTAINMENT", Kplus
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/kplus_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://x1.cdn.broiptv.com/img/tlc.png" group-title="KNOWLEDGE", TLC
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/tlc_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBC Asia" tvg-logo="https://x1.cdn.broiptv.com/img/ebcasia.png" group-title="ENTERTAINMENT", EBC Asia
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/ettvasia_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/zbioskop.png" group-title="MOVIES", Zee Bioskop (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/zbioskop_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://x1.cdn.broiptv.com/img/afc.png" group-title="ENTERTAINMENT", Asian Food Network
+#EXTVLCOPT:http-user-agent=""
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/rattus/afc_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://x1.cdn.broiptv.com/img/antv.png" group-title="LOCAL", ANTV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/782_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVOne" tvg-logo="https://x1.cdn.broiptv.com/img/tvone.png" group-title="LOCAL", TVOne
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/783_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 1" tvg-logo="https://x1.cdn.broiptv.com/img/champions1.png" group-title="SPORTS", Champions TV 1
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6685_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 2" tvg-logo="https://x1.cdn.broiptv.com/img/champions2.png" group-title="SPORTS", Champions TV 2
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6686_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 3" tvg-logo="https://x1.cdn.broiptv.com/img/champions3.png" group-title="SPORTS", Champions TV 3
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6786_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Liverpool TV" tvg-logo="https://x1.cdn.broiptv.com/img/lvctv.jpg" group-title="SPORTS", Liverpool TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/7916_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV HD (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/sctv.png" group-title="LOCAL", SCTV HD (Backup)
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/204_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar HD" tvg-logo="https://x1.cdn.broiptv.com/img/indosiar.png" group-title="LOCAL", Indosiar HD
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/205_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="https://x1.cdn.broiptv.com/img/moji.png" group-title="LOCAL", Moji
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/206_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://x1.cdn.broiptv.com/img/kompastv.png" group-title="LOCAL", Kompas TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/874_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/jtv.png" group-title="LOCAL", JTV (Backup)
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/9713_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JPM TV" tvg-logo="https://x1.cdn.broiptv.com/img/jpm.png" group-title="LOCAL", JPM TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/9714_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sea Today" tvg-logo="https://x1.cdn.broiptv.com/img/seatoday.png" group-title="NEWS", Sea Today
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/7687_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Tempo" tvg-logo="https://x1.cdn.broiptv.com/img/tvtempo.png" group-title="NEWS", TV Tempo
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/7946_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://x1.cdn.broiptv.com/img/beritasatu.png" group-title="NEWS", Berita Satu
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6165_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://x1.cdn.broiptv.com/img/metrotv.png" group-title="LOCAL", Metro TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/777_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="https://x1.cdn.broiptv.com/img/transtv.png" group-title="LOCAL", Trans TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/733_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="https://x1.cdn.broiptv.com/img/trans7.png" group-title="LOCAL", Trans 7
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/734_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jaktv" tvg-logo="https://x1.cdn.broiptv.com/img/jaktv.png" group-title="LOCAL", Jaktv
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/5415_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/rtv.png" group-title="LOCAL", Rajawali TV (Backup)
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/1561_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://x1.cdn.broiptv.com/img/tvri.png" group-title="LOCAL", TVRI
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6441_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nusantara TV" tvg-logo="https://x1.cdn.broiptv.com/img/nusantaratv.png" group-title="LOCAL", Nusantara TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/7432_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAAI TV" tvg-logo="https://x1.cdn.broiptv.com/img/daaitv.png" group-title="LOCAL", DAAI TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6482_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://x1.cdn.broiptv.com/img/mentari_tv.png" group-title="KIDS", Mentari TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/8237_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://x1.cdn.broiptv.com/img/tvn.png" group-title="ENTERTAINMENT", TVN
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6362_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RANS Channel" tvg-logo="https://x1.cdn.broiptv.com/img/rans.png" group-title="ENTERTAINMENT", RANS Channel
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/8241_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="https://x1.cdn.broiptv.com/img/zbioskop.png" group-title="MOVIES", Zee Bioskop
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6399_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musica" tvg-logo="https://x1.cdn.broiptv.com/img/musica.png" group-title="MUSIC", Musica
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/7619_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://x1.cdn.broiptv.com/img/aljazeera.png" group-title="NEWS", Aljazeera
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6410_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://x1.cdn.broiptv.com/img/euronews.png" group-title="NEWS", Euronews
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6412_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/abc_australia.png" group-title="NEWS", ABC Australia (Backup)
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/7150_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-logo="https://x1.cdn.broiptv.com/img/zoomoo.png" group-title="KIDS", Zoomoo
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6533_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hip Hip Horee" tvg-logo="https://x1.cdn.broiptv.com/img/hiphiphoree.png" group-title="KIDS", Hip Hip Horee
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/7052_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://x1.cdn.broiptv.com/img/horee.png" group-title="KIDS", Horee
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6397_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UChannel" tvg-logo="https://x1.cdn.broiptv.com/img/uchannel.png" group-title="RELIGI", UChannel
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6898_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Reformed 21 TV" tvg-logo="https://x1.cdn.broiptv.com/img/reformed21.png" group-title="RELIGI", Reformed 21 TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6853_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlQuran Kareem" tvg-logo="https://x1.cdn.broiptv.com/img/alquran.png" group-title="RELIGI", AlQuran Kareem
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/6852_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ajwa TV" tvg-logo="https://x1.cdn.broiptv.com/img/ajwatv.png" group-title="RELIGI", Ajwa TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/gerbil/7464_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png" group-title="MOVIES", HBO HD (Backup)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/wirok/hbohd_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="MOVIES", HBO Signature (Backup)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/wirok/sighd_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="MOVIES", HBO Hits (Backup)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/wirok/hitshd_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/hbo_family.png" group-title="MOVIES", HBO Family (Backup)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/wirok/famhd_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/cinemax.png" group-title="MOVIES", Cinemax (Backup)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/wirok/maxhd_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/antv.png" group-title="LOCAL", ANTV (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/antv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://x1.cdn.broiptv.com/img/RCTI.png" group-title="LOCAL", RCTI
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/rcti_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://x1.cdn.broiptv.com/img/gtv.png" group-title="LOCAL", GTV
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/gtv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://x1.cdn.broiptv.com/img/mnc_tv.png" group-title="LOCAL", MNCTV
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/mnctv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iNews TV" tvg-logo="https://x1.cdn.broiptv.com/img/inews.png" group-title="LOCAL", iNews TV
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/inews_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Net TV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/net.png" group-title="LOCAL", Net TV (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/net_tv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music TV" tvg-logo="https://x1.cdn.broiptv.com/img/music_tv.png" group-title="MUSIC", Music TV
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/music_tv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/mtvlive.png" group-title="MUSIC", MTV Live (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/mtvlive_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/tvn.png" group-title="ENTERTAINMENT", TVN (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/tvn_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN Movies (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/tvnmovies.png" group-title="MOVIES", TVN Movies (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/tvnmovies_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hits (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/hits.png" group-title="MOVIES", Hits (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/hits_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hits Movies (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/hits_movies.png" group-title="MOVIES", Hits Movies (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/hits_movies_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/celestialmovie.png" group-title="MOVIES", Celestial Movies (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/celestialmovie_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies" tvg-logo="https://x1.cdn.broiptv.com/img/ccm.png" group-title="MOVIES", Celestial Classic Movies
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/celestial_classic_movies_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://x1.cdn.broiptv.com/img/cinemaworld.png" group-title="MOVIES", Cinema World
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/cinemaworld_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="https://x1.cdn.broiptv.com/img/rock_entertainment.png" group-title="ENTERTAINMENT", Rock Entertainment
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/rock_entertainment_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rock Extreme (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/rock_extreme.png" group-title="ENTERTAINMENT", Rock Extreme (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/rock_extreme_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="https://x1.cdn.broiptv.com/img/fmn.png" group-title="ENTERTAINMENT", FMN
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/fmn_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kplus (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/kplus.png" group-title="ENTERTAINMENT", Kplus (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/kplus_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony ONE" tvg-logo="https://x1.cdn.broiptv.com/img/sone.png" group-title="ENTERTAINMENT", Sony ONE
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/sone_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Network (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/afc.png" group-title="ENTERTAINMENT", Asian Food Network (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/afn_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://x1.cdn.broiptv.com/img/kbsworld.png" group-title="ENTERTAINMENT", KBS World
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/kbsworld_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kix (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/kix.png" group-title="ENTERTAINMENT", Kix (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/kix_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thrill (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/thrill.png" group-title="MOVIES", Thrill (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/thrill_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animax (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/animax.png" group-title="ENTERTAINMENT", Animax (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/animax_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIPlus" tvg-logo="https://x1.cdn.broiptv.com/img/aniplus.png" group-title="ENTERTAINMENT", ANIPlus
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/aniplus_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="https://x1.cdn.broiptv.com/img/sonypix.png" group-title="MOVIES", Sony Pix
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/sony_pix_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Channel (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/natgeo.png" group-title="KNOWLEDGE", National Geographic Channel (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/natgeo_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/natgeowild.png" group-title="KNOWLEDGE", National Geographic Wild (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/natgeowild_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/discovery.png" group-title="KNOWLEDGE", Discovery Channel (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/disco_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/history.png" group-title="KNOWLEDGE", History (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/history_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/hgtv.png" group-title="KNOWLEDGE", HGTV (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/hgtv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/crimeinvestigation.png" group-title="KNOWLEDGE", Crime Investigation (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/crime_investigation_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/axn.png" group-title="MOVIES", AXN (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/axn_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/warner.png" group-title="MOVIES", Warner TV (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/warner_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://x1.cdn.broiptv.com/img/animal_planet.png" group-title="KNOWLEDGE", Animal Planet
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/animal_planet_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://x1.cdn.broiptv.com/img/bbc_earth.png" group-title="KNOWLEDGE", BBC Earth
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/bbc_earth_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Boo" tvg-logo="https://x1.cdn.broiptv.com/img/astro_boo.png" group-title="MOVIES", Astro Boo
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/astro_boo_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="https://x1.cdn.broiptv.com/img/astro_ceria.png" group-title="KIDS", Astro Ceria
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/astro_ceria_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeSmart" tvg-logo="https://x1.cdn.broiptv.com/img/besmart.png" group-title="KIDS", BeSmart
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/besmart_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kids Channel" tvg-logo="https://x1.cdn.broiptv.com/img/kidschannel.png" group-title="KIDS", Kids Channel
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/kids_channel_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://x1.cdn.broiptv.com/img/nickelodeon.png" group-title="KIDS", Nickelodeon
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/nickelodeon_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="https://x1.cdn.broiptv.com/img/nickjr.png" group-title="KIDS", Nick Junior
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/nickjr_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/cartoonnetwork.png" group-title="KIDS", Cartoon Network (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/cartoonnetwork_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/boomerang.png" group-title="KIDS", Boomerang (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/boomerang_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://x1.cdn.broiptv.com/img/disney_xd.png" group-title="KIDS", Disney XD
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/disney_xd_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/fight_sports.png" group-title="SPORTS", Fight Sports (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/fight_sports_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/spotv.png" group-title="SPORTS", SPOTV (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/spotv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV2 (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/spotv2.png" group-title="SPORTS", SPOTV2 (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/spotv2_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Motorsport" tvg-logo="https://x1.cdn.broiptv.com/img/motorsport.png" group-title="SPORTS", Motorsport
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/motorsport_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena" tvg-logo="https://x1.cdn.broiptv.com/img/astro_arena.png" group-title="SPORTS", Astro Arena
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/astro_arena_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 1" tvg-logo="https://x1.cdn.broiptv.com/img/astro_supersport1.png" group-title="SPORTS", Astro Supersport 1
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/astro_supersport1_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 2" tvg-logo="https://x1.cdn.broiptv.com/img/astro_supersport2.png" group-title="SPORTS", Astro Supersport 2
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/astro_supersport2_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 3" tvg-logo="https://x1.cdn.broiptv.com/img/astro_supersport3.png" group-title="SPORTS", Astro Supersport 3
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/astro_supersport3_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 4" tvg-logo="https://x1.cdn.broiptv.com/img/astro_supersport4.png" group-title="SPORTS", Astro Supersport 4
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/astro_supersport4_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports EN 1" tvg-logo="http://x1.cdn.broiptv.com/img/bein1english.png" group-title="SPORTS", beIN Sports EN 1
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/bein1_english_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/nba.png" group-title="SPORTS", NBA TV (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/nba_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV" tvg-logo="https://x1.cdn.broiptv.com/img/ufc.png" group-title="SPORTS", UFC TV
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/ufc_tv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://x1.cdn.broiptv.com/img/wwe.png" group-title="SPORTS", WWE Network
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/wwe_network_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png" group-title="MOVIES", HBO HD
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/hbo_hd_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="MOVIES", HBO Hits
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/hbo_hits_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="MOVIES", HBO Signature
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/hbo_signature_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://x1.cdn.broiptv.com/img/hbo_family.png" group-title="MOVIES", HBO Family
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/hbo_family_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://x1.cdn.broiptv.com/img/cinemax.png" group-title="MOVIES", Cinemax
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/cinemax_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNC Sports" tvg-logo="https://x1.cdn.broiptv.com/img/mncsports.png" group-title="SPORTS", MNC Sports
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/mncsports_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNC Sports 2" tvg-logo="https://x1.cdn.broiptv.com/img/mncsports2.png" group-title="SPORTS", MNC Sports 2
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/mncsports2_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Soccer Channel" tvg-logo="https://x1.cdn.broiptv.com/img/soccerchannel.png" group-title="SPORTS", Soccer Channel
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/soccer_channel_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports 1" tvg-logo="https://x1.cdn.broiptv.com/img/sonysports1.png" group-title="SPORTS", Sony Sports 1
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/sony_sports1_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports 2" tvg-logo="https://x1.cdn.broiptv.com/img/sonysports2.png" group-title="SPORTS", Sony Sports 2
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/sony_sports2_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports 5" tvg-logo="https://x1.cdn.broiptv.com/img/sonysports5.png" group-title="SPORTS", Sony Sports 5
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/norvegicus/sony_sports5_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Indonesia Channel" tvg-logo="https://x1.cdn.broiptv.com/img/tic.png" group-title="ENTERTAINMENT", The Indonesia Channel
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/theindonesiachannel_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://x1.cdn.broiptv.com/img/lovenature.png" group-title="KNOWLEDGE", Love Nature 4K
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/love_nature_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://x1.cdn.broiptv.com/img/bloomberg.png" group-title="NEWS", Bloomberg
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/bloomberg_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="https://x1.cdn.broiptv.com/img/cgtndocumentary.png" group-title="KNOWLEDGE", CGTN Documentary
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/cgtndocumentary_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://x1.cdn.broiptv.com/img/nhkworld.png" group-title="ENTERTAINMENT", NHK World Japan
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/nhkworld_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="https://x1.cdn.broiptv.com/img/trtworld.png" group-title="NEWS", TRT World
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/trtworld_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://x1.cdn.broiptv.com/img/cnninternational.png" group-title="NEWS", CNN International
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/cnninternational_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIPlus (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/aniplus.png" group-title="ENTERTAINMENT", ANIPlus (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/aniplus_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment (Backup)" tvg-logo="https://x1.cdn.broiptv.com/img/rock_entertainment.png" group-title="ENTERTAINMENT", Rock Entertainment (Backup)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/rock_entertainment_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://x1.cdn.broiptv.com/img/arirang.png" group-title="ENTERTAINMENT", Arirang
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/arirang_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Magna Channel" tvg-logo="https://x1.cdn.broiptv.com/img/magnachannel.png" group-title="ENTERTAINMENT", Magna Channel
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/magna_channel_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fail Army" tvg-logo="https://x1.cdn.broiptv.com/img/failarmy.png" group-title="ENTERTAINMENT", Fail Army
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/fail_army_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://x1.cdn.broiptv.com/img/cnnindonesia.png" group-title="NEWS", CNN Indonesia
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/cnn_indonesia_backup_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://x1.cdn.broiptv.com/img/cnbc_indonesia.png" group-title="NEWS", CNBC Indonesia
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/cnbc_indonesia_backup_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News Asia" tvg-logo="https://x1.cdn.broiptv.com/img/newsasia.png" group-title="NEWS", News Asia
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/newsasia_backup_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro Globe Network" tvg-logo="https://x1.cdn.broiptv.com/img/metroglobenetwork.png" group-title="NEWS", Metro Globe Network
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/metro_globe_network_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Parlemen" tvg-logo="https://x1.cdn.broiptv.com/img/tvparlemen.png" group-title="NEWS", TV Parlemen
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/tv_parlemen_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madinah TV" tvg-logo="https://x1.cdn.broiptv.com/img/madinahtv.png" group-title="RELIGI", Madinah TV
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/madinah_tv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="https://x1.cdn.broiptv.com/img/tvri_sport.png" group-title="SPORTS", TVRI Sport
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/tvrisport_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pop Musik" tvg-logo="https://x1.cdn.broiptv.com/img/pop_musik.png" group-title="MUSIC", Pop Musik
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/popmusik_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maleo Channel" tvg-logo="https://x1.cdn.broiptv.com/img/maleo.png" group-title="MUSIC", Maleo Channel
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/maleo_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kpop TV" tvg-logo="https://x1.cdn.broiptv.com/img/kpoptv.png" group-title="MUSIC", Kpop TV
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/kpoptv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="One Music" tvg-logo="https://x1.cdn.broiptv.com/img/onemusic.jpg" group-title="MUSIC", One Music
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/one_music_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FashionTV" tvg-logo="https://x1.cdn.broiptv.com/img/fashiontv.png" group-title="ENTERTAINMENT", FashionTV
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/fashiontv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FashionTV Midnight Secret" tvg-logo="https://x1.cdn.broiptv.com/img/fashiontvmidnight.png" group-title="ENTERTAINMENT", FashionTV Midnight Secret
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/fashiontvmidnight_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="https://x1.cdn.broiptv.com/img/redbulltv.png" group-title="SPORTS", RedBull TV
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/redbull_tv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://x1.cdn.broiptv.com/img/tennis_channel.png" group-title="SPORTS", Tennis Channel
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/tennis_channel_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin (2019)" tvg-logo="https://i.imgur.com/ORACF9q.jpg" group-title="VOD - Adventure", Aladdin (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/aladdin_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible Fallout (2018)" tvg-logo="https://i.imgur.com/2MsvqpJ.jpg" group-title="VOD - Action", Mission Impossible Fallout (2018)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/missionimpossiblefallout_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="John Wick Chapter 3 - Parabellum (2019)" tvg-logo="https://i.imgur.com/CxuYWZt.png" group-title="VOD - Action", John Wick Chapter 3 - Parabellum (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/johnwickchapter3parabellum_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Angel Has Fallen (2019)" tvg-logo="https://i.imgur.com/ssUDn0M.jpg" group-title="VOD - Action", Angel Has Fallen (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/angelhasfallen_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Avengers - Endgame (2019)" tvg-logo="https://i.imgur.com/lX97zCe.jpg" group-title="VOD - Action", Avengers - Endgame (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/avengers_endgame_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Black Hawk Down (2001)" tvg-logo="https://i.imgur.com/5F2PJdI.jpg" group-title="VOD - Action", Black Hawk Down (2001)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/blackhawkdown_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinta Itu Buta (2019)" tvg-logo="https://i.imgur.com/xDSrgC4.jpg" group-title="VOD - Drama", Cinta Itu Buta (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/cintaitubuta_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Coco (2017)" tvg-logo="https://i.imgur.com/VSkJEQ2.jpg" group-title="VOD - Animation", Coco (2017)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/coco_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crazy Rich Asians (2018)" tvg-logo="https://i.imgur.com/bran3GH.jpg" group-title="VOD - Drama", Crazy Rich Asians (2018)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/crazyrichasians_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doraemon Nobita Chronicle of The Moon Exploration (2019)" tvg-logo="https://i.imgur.com/5299syj.jpg" group-title="VOD - Animation", Doraemon Nobita Chronicle of The Moon Exploration (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/doremonnobitachronicleofthemoon exploration_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dora And The Lost City of Gold (2019)" tvg-logo="https://i.imgur.com/t2cv3dP.jpg" group-title="VOD - Animation", Dora And The Lost City of Gold (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/doraandthelostcityofgold_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dua Garis Biru (2019)" tvg-logo="https://i.imgur.com/wCAJst9.jpg" group-title="VOD - Drama", Dua Garis Biru (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/duagarisbiru_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fast and Furious - Present Hobbs and Shaw (2019)" tvg-logo="https://i.imgur.com/JkSgABn.jpg" group-title="VOD - Action", Fast and Furious - Present Hobbs and Shaw (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/fastandfuriouspresenthobbsandshaw_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Foxtrot Six (2019)" tvg-logo="https://i.imgur.com/Ar6GAWz.jpg" group-title="VOD - Action", Foxtrot Six (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/foxtrotsix_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Writer (2019)" tvg-logo="https://i.imgur.com/xAIp12o.jpg" group-title="VOD - Drama", Ghost Writer (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/ghostwriter_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="It - Chapter 2 (2019)" tvg-logo="https://i.imgur.com/jQfzcTG.jpg" group-title="VOD - Horror", It - Chapter 2 (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/itchapter2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Johnny English Strikes Again (2018)" tvg-logo="https://i.imgur.com/fSuXUaX.jpg" group-title="VOD - Action", Johnny English Strikes Again (2018)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/johnnyenglishstrikesagain_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kutuk (2019)" tvg-logo="https://i.imgur.com/Oly9pwj.jpg" group-title="VOD - Horror", Kutuk (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/kutuk_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Makmum (2019)" tvg-logo="https://i.imgur.com/1SFCMWu.jpg" group-title="VOD - Horror", Makmum (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/makmum_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mendadak Kaya (2019)" tvg-logo="https://i.imgur.com/UJLUUvx.jpg" group-title="VOD - Drama", Mendadak Kaya (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/mendadakkaya_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Men In Black International (2019)" tvg-logo="https://i.imgur.com/luOVPQN.jpg" group-title="VOD - Action", Men In Black International (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/meninblackinternational_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mile 22 (2018)" tvg-logo="https://i.imgur.com/7c5ytX9.jpg" group-title="VOD - Action", Mile 22 (2018)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/mile22_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PSP - Gaya Mahasiswa (2019)" tvg-logo="https://i.imgur.com/8QZyb8o.jpg" group-title="VOD - Drama", PSP - Gaya Mahasiswa (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/pspgayamahasiswa_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pocong The Origin (2019)" tvg-logo="https://i.imgur.com/NqLUVsV.jpg" group-title="VOD - Horror", Pocong The Origin (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/pocongtheorigin_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon Detective Pikachu (2019)" tvg-logo="https://i.imgur.com/xIIE3cB.jpg" group-title="VOD - Animation", Pokemon Detective Pikachu (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/pokemondetectivepikachu_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Preman Pensiun (2019)" tvg-logo="https://i.imgur.com/AYc8CPa.jpg" group-title="VOD - Drama", Preman Pensiun (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/premanpensiun_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Last Blood (2019)" tvg-logo="https://i.imgur.com/71EJp0Z.jpg" group-title="VOD - Action", Rambo: Last Blood (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/rambolastblood_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ready or Not (2019)" tvg-logo="https://i.imgur.com/8MyQxK4.jpg" group-title="VOD - Action", Ready or Not (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/readyornot_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman Far From Home (2019)" tvg-logo="https://i.imgur.com/7rrCxfd.jpg" group-title="VOD - Action", Spiderman Far From Home (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/spidermanfarfromhome_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tears of The Sun (2003)" tvg-logo="https://i.imgur.com/VazsCMm.jpg" group-title="VOD - Action", Tears of The Sun (2003)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/tearsofthesun_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Mummy Rebirth (2019)" tvg-logo="https://i.imgur.com/0rEKQNZ.jpg" group-title="VOD - Action", The Mummy Rebirth (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/themummyrebirth_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Lion King (2019)" tvg-logo="https://i.imgur.com/h3cNHLI.jpg" group-title="VOD - Animation", The Lion King (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thelionking_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Secret Life of Pets (2019)" tvg-logo="https://i.imgur.com/tTSVTxn.jpg" group-title="VOD - Animation", The Secret Life of Pets (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thesecretlifeofpets_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X-Men Dark Phoenix (2019)" tvg-logo="https://i.imgur.com/Bn3EDjT.png" group-title="VOD - Action", X-Men Dark Phoenix (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/xmendarkphoenix_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yowis Ben 2 (2019)" tvg-logo="https://i.imgur.com/iC29mfB.jpg" group-title="VOD - Drama", Yowis Ben 2 (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/yowisben2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Munafik (2016)" tvg-logo="https://i.imgur.com/ekZXZuv.jpg" group-title="VOD - Horror", Munafik (2016)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/munafik_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Munafik 2 (2018)" tvg-logo="https://i.imgur.com/TE8KOkv.jpg" group-title="VOD - Horror", Munafik 2 (2018)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/munafik2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asih (2018)" tvg-logo="https://i.imgur.com/RapDj8f.jpg" group-title="VOD - Horror", Asih (2018)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/asih_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Extraction (2020)" tvg-logo="https://i.imgur.com/zBMmuFE.jpg" group-title="VOD - Action", Extraction (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/extraction_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 4 (2019)" tvg-logo="https://i.imgur.com/vrDgHiA.jpg" group-title="VOD - Animation", Toy Story 4 (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/toystory4_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OnePiece Stampede (2019)" tvg-logo="https://i.imgur.com/4PyPARB.jpg" group-title="VOD - Animation", OnePiece Stampede (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/onepiecestampede_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shazam (2019)" tvg-logo="https://i.imgur.com/qnIocxc.jpg" group-title="VOD - Action", Shazam (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/shazam_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zombieland Double Tap (2019)" tvg-logo="https://i.imgur.com/b79cx4H.jpg" group-title="VOD - Action", Zombieland Double Tap (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/zombielanddoubletap_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Terminator Dark Fate (2019)" tvg-logo="https://i.imgur.com/45ozLF2.jpg" group-title="VOD - Action", Terminator Dark Fate (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/terminatordarkfate_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock Holmes (2009)" tvg-logo="https://i.imgur.com/OtfH9CD.jpg" group-title="VOD - Action", Sherlock Holmes (2009)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/sherlockholmes_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Man Called Ahok (2018)" tvg-logo="https://i.imgur.com/avxk9aZ.jpg" group-title="VOD - Documentary", A Man Called Ahok (2018)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/amancalledahok_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warkop DKI Reborn (2019)" tvg-logo="https://i.imgur.com/ZJ1MwIS.jpg" group-title="VOD - Drama", Warkop DKI Reborn (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/warkopdkireborn_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wedding Agreement (2019)" tvg-logo="https://i.imgur.com/V6HAgyU.jpg" group-title="VOD - Drama", Wedding Agreement (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/weddingagreement_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bumi Manusia (2019)" tvg-logo="https://i.imgur.com/VINhcMN.jpg" group-title="VOD - Drama", Bumi Manusia (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/bumimanusia_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sonic The Hedgehog (2020)" tvg-logo="https://i.imgur.com/rQ5o2aV.jpg" group-title="VOD - Animation", Sonic The Hedgehog (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/sonicthehedgehog_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mama Mama Jagoan (2018)" tvg-logo="https://i.imgur.com/tVOFvQ3.jpg" group-title="VOD - Drama", Mama Mama Jagoan (2018)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/mamamamajagoan_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman (2018)" tvg-logo="https://i.imgur.com/eje5JgH.jpg" group-title="VOD - Action", Aquaman (2018)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/aquaman_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle 2 Creation (2017)" tvg-logo="https://i.imgur.com/QH01tp2.jpg" group-title="VOD - Horror", Annabelle 2 Creation (2017)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/annabelle2creation_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abominable (2019)" tvg-logo="https://i.imgur.com/D2Tl0Be.jpg" group-title="VOD - Animation", Abominable (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/abominable_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Avengers - Infinity War (2018)" tvg-logo="https://i.imgur.com/r3wDozO.jpg" group-title="VOD - Action", Avengers - Infinity War (2018)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/avengersinfinitywar_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Charlies Angels (2019)" tvg-logo="https://i.imgur.com/6uMGAvB.jpg" group-title="VOD - Action", Charlies Angels (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/charliesangels_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sunyi (2019)" tvg-logo="https://i.imgur.com/ycT5FfC.jpg" group-title="VOD - Horror", Sunyi (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/sunyi_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anak Hoki (2019)" tvg-logo="https://i.imgur.com/CZS58bB.jpg" group-title="VOD - Drama", Anak Hoki (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/anakhoki_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Danur 3 Sunyaruri (2019)" tvg-logo="https://i.imgur.com/VJh2TQ8.jpg" group-title="VOD - Horror", Danur 3 Sunyaruri (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/danur3sunyaruri_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Danur I Can See Ghosts (2017)" tvg-logo="https://i.imgur.com/wOGVi6M.jpg" group-title="VOD - Horror", Danur I Can See Ghosts (2017)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/danuricanseeghosts_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DreadOut (2019)" tvg-logo="https://i.imgur.com/686a5ia.jpg" group-title="VOD - Horror", DreadOut (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/dreadout_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dilan 1991 (2019)" tvg-logo="https://i.imgur.com/q0VEUbT.jpg" group-title="VOD - Drama", Dilan 1991 (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/dilan1991_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle Comes Home (2019)" tvg-logo="https://i.imgur.com/qCv1SsC.jpg" group-title="VOD - Horror", Annabelle Comes Home (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/annabellecomeshome_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hitman Agent 47 (2015)" tvg-logo="https://i.imgur.com/CIwv6zc.jpg" group-title="VOD - Action", Hitman Agent 47 (2015)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/hitmanagent47_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange (2016)" tvg-logo="https://i.imgur.com/F9EzTvi.jpg" group-title="VOD - Action", Doctor Strange (2016)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/doctorstrange_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Frozen II (2019)" tvg-logo="https://i.imgur.com/B9QpJia.jpg" group-title="VOD - Animation", Frozen II (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/frozenii_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hitman (2007)" tvg-logo="https://i.imgur.com/5o63wkY.jpg" group-title="VOD - Action", Hitman (2007)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/hitman_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gundala (2019)" tvg-logo="https://i.imgur.com/kOI862p.jpg" group-title="VOD - Action", Gundala (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/gundala_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Insidious (2010)" tvg-logo="https://i.imgur.com/iOD3hMv.jpg" group-title="VOD - Horror", Insidious (2010)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/insidious_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Insidious Chapter 2 (2013)" tvg-logo="https://i.imgur.com/qP1xW0W.jpg" group-title="VOD - Horror", Insidious Chapter 2 (2013)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/insidiouschapter2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Insidious Chapter 3 (2015)" tvg-logo="https://i.imgur.com/Fjwy5rK.png" group-title="VOD - Horror", Insidious Chapter 3 (2015)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/insidiouschapter3_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man (2008)" tvg-logo="https://i.imgur.com/CygbzpD.jpg" group-title="VOD - Action", Ip Man (2008)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/ipman2008_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 3 (2015)" tvg-logo="https://i.imgur.com/vYAlYmB.jpg" group-title="VOD - Action", Ip Man 3 (2015)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/ipman2015_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 2 (2010)" tvg-logo="https://i.imgur.com/WmzZb8n.jpg" group-title="VOD - Action", Ip Man 2 (2010)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/ipman2010_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Joker (2019)" tvg-logo="https://i.imgur.com/jfhkHCI.jpg" group-title="VOD - Action", Joker (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/joker_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kapal Goyang Kapten (2019)" tvg-logo="https://i.imgur.com/oBcl61t.jpg" group-title="VOD - Drama", Kapal Goyang Kapten (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/kapalgoyangkapten_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Koki Koki Cilik 2 (2019)" tvg-logo="https://i.imgur.com/ZLejWEf.jpg" group-title="VOD - Drama", Koki Koki Cilik 2 (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/kokikokicilik2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kuntilanak 2 (2019)" tvg-logo="https://i.imgur.com/Wx2uLzV.jpg" group-title="VOD - Horror", Kuntilanak 2 (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/kuntilanak2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love for Sale 2 (2019)" tvg-logo="https://i.imgur.com/8fu2rI1.jpg" group-title="VOD - Drama", Love for Sale 2 (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/loveforsale2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maleficent Mistress of Evil (2019)" tvg-logo="https://i.imgur.com/7SGKQYk.png" group-title="VOD - Adventure", Maleficent Mistress of Evil (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/maleficentmistressofevil_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mata Batin 2 (2019)" tvg-logo="https://i.imgur.com/6lxqf36.jpg" group-title="VOD - Horror", Mata Batin 2 (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/matabatin2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Move On Aja (2019)" tvg-logo="https://i.imgur.com/PpqMvxO.jpg" group-title="VOD - Drama", Move On Aja (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/moveonaja_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Stupid Boss 2 (2019)" tvg-logo="https://i.imgur.com/ig7EhDk.jpg" group-title="VOD - Drama", My Stupid Boss 2 (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/mystupidboss2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nanti Kita Cerita Tentang Hari Ini (2020)" tvg-logo="https://i.imgur.com/s6ai1r8.jpg" group-title="VOD - Drama", Nanti Kita Cerita Tentang Hari Ini (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/nantikitaceritatentanghariini_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Scoob (2020)" tvg-logo="https://i.imgur.com/SWgV9oN.jpg" group-title="VOD - Animation", Scoob (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/scoob_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Invisible Man (2020)" tvg-logo="https://i.imgur.com/0gsVBMX.jpg" group-title="VOD - Horror", The Invisible Man (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/theinvisibleman_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Akhir Kisah Cinta si Doel (2020)" tvg-logo="https://i.imgur.com/WhbMoZs.jpg" group-title="VOD - Drama", Akhir Kisah Cinta si Doel (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/akhirkisahcintasidoel_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Perempuan Tanah Jahanam (2019)" tvg-logo="https://i.imgur.com/PLuiz1r.png" group-title="VOD - Horror", Perempuan Tanah Jahanam (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/perempuantanahjahanam_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Soldiers (2020)" tvg-logo="https://i.imgur.com/MkSNyJe.jpg" group-title="VOD - Action", Dragon Soldiers (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/dragonsoldiers_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life (2020)" tvg-logo="https://i.imgur.com/3sHAfdJ.jpg" group-title="VOD - Action", Bad Boys for Life (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/badboysforlife_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra (2020)" tvg-logo="https://i.imgur.com/84XsYog.jpg" group-title="VOD - Drama", Abracadabra (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/abracadabra_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Perburuan (2019)" tvg-logo="https://i.imgur.com/EMQkL6g.jpg" group-title="VOD - Action", Perburuan (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/perburuan_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars episode IX - The Rise of Skywalker (2019)" tvg-logo="https://i.imgur.com/unBRO0F.jpg" group-title="VOD - Action", Star Wars episode IX - The Rise of Skywalker (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/starwarsepisodeixtheriseofskywalker_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trolls World Tour (2020)" tvg-logo="https://i.imgur.com/BVJPzgq.jpg" group-title="VOD - Animation", Trolls World Tour (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/trollsworldtour_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Another Child Miseongnyeon (2019)" tvg-logo="https://i.imgur.com/3Mf4MEz.jpg" group-title="VOD - Drama", Another Child Miseongnyeon (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/anotherchildmiseongnyeon_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat Legends Scorpions Revenge (2020)" tvg-logo="https://i.imgur.com/tsQVUrq.jpg" group-title="VOD - Action", Mortal Kombat Legends Scorpions Revenge (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/mortalkombatlegendsscorpionsrevenge_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="https://i.imgur.com/rhuScqZ.jpg" group-title="VOD - Action", Bloodshot (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/bloodshot_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Malam Jumat The Movie (2019)" tvg-logo="https://i.imgur.com/MY74wut.jpg" group-title="VOD - Horror", Malam Jumat The Movie (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/malamjumatthemovie_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 4 - The Finale (2019)" tvg-logo="https://i.imgur.com/WqKMhAQ.png" group-title="VOD - Action", Ip Man 4 - The Finale (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/ipman4thefinale_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Si Doel the Movie 2 (2019)" tvg-logo="https://i.imgur.com/VXrEjI9.jpg" group-title="VOD - Drama", Si Doel the Movie 2 (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/sidoelthemovie2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stuber (2019)" tvg-logo="https://i.imgur.com/Z0QVqHK.jpg" group-title="VOD - Action", Stuber (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/stuber_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji The Next Level (2019)" tvg-logo="https://i.imgur.com/paHJ0Lx.jpg" group-title="VOD - Action", Jumanji The Next Level (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/jumanjithenextlevel_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I Still Believe (2020)" tvg-logo="https://i.imgur.com/58yxaXx.jpg" group-title="VOD - Drama", I Still Believe (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/istillbelieve_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gretel and Hansel (2020)" tvg-logo="https://i.imgur.com/1l75eAT.jpg" group-title="VOD - Horror", Gretel and Hansel (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/gretelandhansel_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dilan (1990)" tvg-logo="https://i.imgur.com/f8PnCG5.jpg" group-title="VOD - Drama", Dilan (1990)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/dilan1990_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Milea (2020)" tvg-logo="https://i.imgur.com/pyBDfMW.jpg" group-title="VOD - Drama", Milea (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/milea2020_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pretty Boys (2019)" tvg-logo="https://i.imgur.com/D0YDj50.jpg" group-title="VOD - Drama", Pretty Boys (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/prettyboys2019_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Friends Naki on the Monster Island (2011)" tvg-logo="https://i.imgur.com/eG0Asf6.jpg" group-title="VOD - Animation", Friends Naki on the Monster Island (2011)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/friendsnakionthemonsterisland_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lost Bullet (2020)" tvg-logo="https://i.imgur.com/T0FLusR.jpg" group-title="VOD - Action", Lost Bullet (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/lostbullet_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teman Tapi Menikah 2 (2020)" tvg-logo="https://i.imgur.com/rBpA0yn.jpg" group-title="VOD - Drama", Teman Tapi Menikah 2 (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/temantapimenikah2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="We Bare Bears The Movie (2020)" tvg-logo="https://i.imgur.com/MDMCOhO.jpg" group-title="VOD - Animation", We Bare Bears The Movie (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/webarebearsthemovie_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Fast And The Furious (2001)" tvg-logo="https://i.imgur.com/41Kwo1I.jpg" group-title="VOD - Action", The Fast And The Furious (2001)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thefastandthefurious_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="2Fast 2Furious (2003)" tvg-logo="https://i.imgur.com/3gPCbNV.jpg" group-title="VOD - Action", 2Fast 2Furious (2003)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/2fast2furious_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="6 Underground (2019)" tvg-logo="https://i.imgur.com/XmVxcZ5.jpg" group-title="VOD - Action", 6 Underground (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/6underground_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious (2009)" tvg-logo="https://i.imgur.com/AXYxBhk.jpg" group-title="VOD - Action", Fast & Furious (2009)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/fast&furious_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fast Five (2011)" tvg-logo="https://i.imgur.com/J90jQn3.jpg" group-title="VOD - Action", Fast Five (2011)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/fastFive_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 6 (2013)" tvg-logo="https://i.imgur.com/xG8TFyy.jpg" group-title="VOD - Action", Fast & Furious 6 (2013)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/fast&furious6_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fate Furious (2017)" tvg-logo="https://i.imgur.com/nOiPTgj.jpg" group-title="VOD - Action", Fate Furious (2017)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/fatefurious_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Furious 7 (2015)" tvg-logo="https://i.imgur.com/CGW5II2.jpg" group-title="VOD - Action", Furious 7 (2015)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/furious7_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Balkan Line (2019)" tvg-logo="https://i.imgur.com/ntzEaEZ.jpg" group-title="VOD - Action", The Balkan Line (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thebalkanline_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Fast And The Furious Tokyo Drift (2006)" tvg-logo="https://i.imgur.com/20K3PdT.jpg" group-title="VOD - Action", The Fast And The Furious Tokyo Drift (2006)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thefastandthefurioustokyodrift_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Torpedo - U235 (2019)" tvg-logo="https://i.imgur.com/n208Gc9.jpg" group-title="VOD - Action", Torpedo - U235 (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/torpedou235_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Train to Busan 2 - Peninsula (2020)" tvg-logo="https://i.imgur.com/AJeSEzO.jpg" group-title="VOD - Horror", Train to Busan 2 - Peninsula (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/traintobusan2-peninsula_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Toko Barang Mantan (2020)" tvg-logo="https://i.imgur.com/eAP4h2W.jpg" group-title="VOD - Drama", Toko Barang Mantan (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/tokobarangmantan_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Kissing Booth 2 (2020)" tvg-logo="https://i.imgur.com/cxiODaO.jpg" group-title="VOD - Drama", The Kissing Booth 2 (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thekissingbooth2_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Preman Pensiun Kesempatan Kedua (2020)" tvg-logo="https://i.imgur.com/RTakaV2.png" group-title="VOD - Drama", Preman Pensiun Kesempatan Kedua (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/premanpensiunkesempatankedua_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pemburu di Manchester Biru (2020)" tvg-logo="https://i.imgur.com/1rznkG0.jpg" group-title="VOD - Drama", Pemburu di Manchester Biru (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/pemburudimanchesterbiru_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nikah Yuk (2020)" tvg-logo="https://i.imgur.com/G6OU7W8.jpg" group-title="VOD - Drama", Nikah Yuk (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/nikahyuk_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mangkujiwo (2020)" tvg-logo="https://i.imgur.com/hJ1IqnK.jpg" group-title="VOD - Horror", Mangkujiwo (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/mangkujiwo_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Guru-Guru Gokil (2020)" tvg-logo="https://i.imgur.com/x7Dtr7E.jpg" group-title="VOD - Drama", Guru-Guru Gokil (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/gurugurugokil_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filosofi Kopi Aroma Gayo (2020)" tvg-logo="https://i.imgur.com/WCKNoGA.jpg" group-title="VOD - Drama", Filosofi Kopi Aroma Gayo (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/filosofikopiaromagayo_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Artemis Fowl (2020)" tvg-logo="https://i.imgur.com/hDH0xRo.jpg" group-title="VOD - Adventure", Artemis Fowl (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/artemisfowl_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Gentlemen (2019)" tvg-logo="https://i.imgur.com/RUfFot0.jpg" group-title="VOD - Action", The Gentlemen (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thegentlemen_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mekah I'm Coming (2020)" tvg-logo="https://i.imgur.com/uKTrkr4.jpg" group-title="VOD - Drama", Mekah I'm Coming (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/mekahimcoming_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dignitate (2020)" tvg-logo="https://i.imgur.com/2jMoytd.jpg" group-title="VOD - Drama", Dignitate (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/dignitate_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bucin (2020)" tvg-logo="https://i.imgur.com/YhkVW2N.jpg" group-title="VOD - Drama", Bucin (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/bucin2020_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mulan (2020)" tvg-logo="https://i.imgur.com/6UMeoCs.jpg" group-title="VOD - Action", Mulan (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/mulan2020_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rentang Kisah (2020)" tvg-logo="https://i.imgur.com/0klv70O.jpg" group-title="VOD - Drama", Rentang Kisah (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/rentangkisah_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colombiana (2011)" tvg-logo="https://i.imgur.com/swV7EKz.jpg" group-title="VOD - Action", Colombiana (2011)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/colombiana_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sabar ini Ujian (2020)" tvg-logo="https://i.imgur.com/NyAKf2e.jpg" group-title="VOD - Drama", Sabar ini Ujian (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/sabariniujian_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pengkhianatan G30S PKI (1984)" tvg-logo="https://i.imgur.com/xYwmYfv.jpg" group-title="VOD - Documentary", Pengkhianatan G30S PKI (1984)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/pengkhianatang30spki_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warkop DKI Reborn 4 (2020)" tvg-logo="https://i.imgur.com/btcKs24.jpg" group-title="VOD - Drama", Warkop DKI Reborn 4 (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/warkopdkireborn4_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020)" tvg-logo="https://i.imgur.com/rXaTq1D.jpg" group-title="VOD - Action", Enola Holmes (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/enolaholmes_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fernando Torres The Last Symbol (2020)" tvg-logo="https://i.imgur.com/Bx1cUXL.jpg" group-title="VOD - Documentary", Fernando Torres The Last Symbol (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/fernandotorresthelastsymbol_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chadwick Boseman - A Tribute for a King (2020)" tvg-logo="https://i.imgur.com/41gadUa.jpg" group-title="VOD - Documentary", Chadwick Boseman - A Tribute for a King (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/chadwickbosemanatributefor_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Miami Bici (2020)" tvg-logo="https://i.imgur.com/TzTNTwP.jpg" group-title="VOD - Drama", Miami Bici (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/miamibici_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Secret Society of Second Born Royals (2020)" tvg-logo="https://i.imgur.com/en4phnl.jpg" group-title="VOD - Action", Secret Society of Second Born Royals (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/secretsocietyofsecondbornroyals_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Devil All The Time (2020)" tvg-logo="https://i.imgur.com/YILnCDS.jpg" group-title="VOD - Thriller", The Devil All The Time (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thedevilallthetime_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Greenland (2020)" tvg-logo="https://i.imgur.com/oaOaZlv.jpg" group-title="VOD - Action", Greenland (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/greenland_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Honest Thief (2020)" tvg-logo="https://i.imgur.com/Ds1c6PA.jpg" group-title="VOD - Action", Honest Thief (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/honestthief_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman 1984 (2020)" tvg-logo="https://i.imgur.com/1AEb6de.jpg" group-title="VOD - Action", Wonder Woman 1984 (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/wonderwoman1984_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love and Monsters (2020)" tvg-logo="https://i.imgur.com/6QYbi2H.jpg" group-title="VOD - Action", Love and Monsters (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/loveandmonsters_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Skylines (2020)" tvg-logo="https://i.imgur.com/EKRxBvV.jpg" group-title="VOD - Action", Skylines (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/skylines_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Spongebob Movie Sponge On The Run (2020)" tvg-logo="https://i.imgur.com/jaGkTJO.jpg" group-title="VOD - Animation", The Spongebob Movie Sponge On The Run (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thespongebobmoviespongeontherun_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Minions Holiday Special (2020)" tvg-logo="https://i.imgur.com/6bV4bQq.jpg" group-title="VOD - Animation", Minions Holiday Special (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/minionsholidayspecial_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Run (2020)" tvg-logo="https://i.imgur.com/FqU92gX.jpg" group-title="VOD - Thriller", Run (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/run2020_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tenet (2020)" tvg-logo="https://i.imgur.com/pzmTAhT.jpg" group-title="VOD - Action", Tenet (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/tenet2020_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Roald Dahl’s The Witches (2020)" tvg-logo="https://i.imgur.com/ujIDK8y.jpg" group-title="VOD - Adventure", Roald Dahl’s The Witches (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/roalddahlsthewitches_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jiu Jitsu (2020)" tvg-logo="https://i.imgur.com/rcNWqPC.jpg" group-title="VOD - Action", Jiu Jitsu (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/jiujitsu2020_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Croods A New Age (2020)" tvg-logo="https://i.imgur.com/rgTDgw0.jpg" group-title="VOD - Animation", The Croods A New Age (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thecroodsanewage_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blackpink Light Up the Sky (2020)" tvg-logo="https://i.imgur.com/uVmzrkU.jpg" group-title="VOD - Documentary", Blackpink Light Up the Sky (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/blackpinklightupthesky_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Call (2020)" tvg-logo="https://i.imgur.com/lAMM30o.jpg" group-title="VOD - Thriller", The Call (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thecall2020_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Nest (2020)" tvg-logo="https://i.imgur.com/EwC7bVn.jpg" group-title="VOD - Drama", The Nest (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thenest2020_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Upin Ipin - Keris Siamang Tunggal (2019)" tvg-logo="https://i.imgur.com/LtBnxL0.jpg" group-title="VOD - Animation", Upin Ipin - Keris Siamang Tunggal (2019)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/upinipinkerissiamangtunggal_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Soul (2020)" tvg-logo="https://i.imgur.com/bhstguo.jpg" group-title="VOD - Animation", Soul (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/soul2020_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Monsters of Man (2020)" tvg-logo="https://i.imgur.com/MHdZ0X1.jpg" group-title="VOD - Action", Monsters of Man (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/monstersofman_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Clouds (2020)" tvg-logo="https://i.imgur.com/fq9YjqF.jpg" group-title="VOD - Drama", Clouds (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/clouds2020_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Little Things (2021)" tvg-logo="https://i.imgur.com/aLxqkCv.jpg" group-title="VOD - Thriller", The Little Things (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thelittlethings2021_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sobat Ambyar (2021)" tvg-logo="https://i.imgur.com/oadIXqp.jpg" group-title="VOD - Documentary", Sobat Ambyar (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/sobatambyar2021_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs Kong (2021)" tvg-logo="https://i.imgur.com/XoVfL2w.jpg" group-title="VOD - Action", Godzilla vs Kong (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/godzillavskong_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Unholy (2021)" tvg-logo="https://i.imgur.com/1TOqCOC.jpg" group-title="VOD - Horror", The Unholy (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/theunholy_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kala (2021)" tvg-logo="https://i.imgur.com/a1qnrSg.jpg" group-title="VOD - Action", Kala (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/kala_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The East (2020)" tvg-logo="https://i.imgur.com/ZluyJBb.jpg" group-title="VOD - Thriller", The East (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/theeast_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Minamata (2020)" tvg-logo="https://i.imgur.com/lqhNK1O.jpg" group-title="VOD - Drama", Minamata (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/minamata_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ferry (2021)" tvg-logo="https://i.imgur.com/duMtigr.jpg" group-title="VOD - Action", Ferry (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/ferry_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021)" tvg-logo="https://i.imgur.com/F7DGxqw.jpg" group-title="VOD - Action", Mortal Kombat (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/mortalkombat_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nobody (2021)" tvg-logo="https://i.imgur.com/eDH9ipS.jpg" group-title="VOD - Action", Nobody (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/nobody_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Friends The Reunian (2021)" tvg-logo="https://i.imgur.com/zKHsW6A.jpg" group-title="VOD - Drama", Friends The Reunian (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/friendsthereunian_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Quiet Place Part II (2020)" tvg-logo="https://i.imgur.com/cyMH0MO.jpg" group-title="VOD - Horror", A Quiet Place Part II (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/aquietplacepartii_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021)" tvg-logo="https://i.imgur.com/B2AC9ij.jpg" group-title="VOD - Adventure", Cruella (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/cruella_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Raya And The Last Dragon (2021)" tvg-logo="https://i.imgur.com/zxgiENU.jpg" group-title="VOD - Animation", Raya And The Last Dragon (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/rayaandthelastdragon_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dark Spell (2021)" tvg-logo="https://i.imgur.com/BRULQMq.jpg" group-title="VOD - Horror", Dark Spell (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/darkspell_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit 2 The Runaway (2021)" tvg-logo="https://i.imgur.com/SpqkpqE.jpg" group-title="VOD - Animation", Peter Rabbit 2 The Runaway (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/peterrabbit2therunaway_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Boss Baby Family Business (2021)" tvg-logo="https://i.imgur.com/3QYbsEi.jpg" group-title="VOD - Animation", The Boss Baby Family Business (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thebossbabyfamilybusiness_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Recalled (2021)" tvg-logo="https://i.imgur.com/9NKj2zb.jpg" group-title="VOD - Thriller", Recalled (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/recalled_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Hitmans Wifes Bodyguard (2021)" tvg-logo="https://i.imgur.com/CsMldW3.jpg" group-title="VOD - Action", The Hitmans Wifes Bodyguard (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thehitmanswifesbodyguard_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Tomorrow War (2021)" tvg-logo="https://i.imgur.com/1Fz1WyH.jpg" group-title="VOD - Action", The Tomorrow War (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thetomorrowwar_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Army of the Dead (2021)" tvg-logo="https://i.imgur.com/A7Ssr0b.jpg" group-title="VOD - Action", Army of the Dead (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/armyofthedead_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Conjuring The Devil Made Me Do It (2021)" tvg-logo="https://i.imgur.com/qPcfob3.jpg" group-title="VOD - Horror", The Conjuring The Devil Made Me Do It (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/theconjuringthedevilmademedoit_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Things Heard Seen (2021)" tvg-logo="https://i.imgur.com/wx1w0Kt.jpg" group-title="VOD - Horror", Things Heard Seen (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thingsheardseen_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rurouni Kenshin The Final (2021)" tvg-logo="https://i.imgur.com/ffGzEaY.jpg" group-title="VOD - Action", Rurouni Kenshin The Final (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/rurounikenshinthefinal_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Mitchells vs The Machines (2021)" tvg-logo="https://i.imgur.com/G1R083p.jpg" group-title="VOD - Animation", The Mitchells vs The Machines (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/themitchellsvsthemachines_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wolfgang (2021)" tvg-logo="https://i.imgur.com/To9PgCy.jpg" group-title="VOD - Documentary", Wolfgang (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/wolfgang_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ainbo Spirit of The Amazon (2021)" tvg-logo="https://i.imgur.com/aP964lG.jpg" group-title="VOD - Animation", Ainbo Spirit of The Amazon (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/ainbospiritoftheamazon_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Courier (2020)" tvg-logo="https://i.imgur.com/z9En2IK.jpg" group-title="VOD - Thriller", The Courier (2020)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thecourier_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Without Remorse (2021)" tvg-logo="https://i.imgur.com/WMd2ImX.jpg" group-title="VOD - Action", Without Remorse (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/withoutremorse_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Black Widow (2021)" tvg-logo="https://i.imgur.com/ty6cWC7.jpg" group-title="VOD - Action", Black Widow (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/blackwidow_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fear Street Part 1-1994 (2021)" tvg-logo="https://i.imgur.com/8nkgnja.jpg" group-title="VOD - Thriller", Fear Street Part 1-1994 (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/fearstreetpart11994_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="No Time To Die (2021)" tvg-logo="https://i.imgur.com/FksUA9Q.jpg" group-title="VOD - Action", No Time To Die (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/notimetodie_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Night Night (2021)" tvg-logo="https://i.imgur.com/EcGzYZ5.jpg" group-title="VOD - Horror", Night Night (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/nightnight_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Home Sweet Home Alone (2021)" tvg-logo="https://i.imgur.com/Hiar3pB.jpg" group-title="VOD - Drama", Home Sweet Home Alone (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/homesweethomealone_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Night Riders (2021)" tvg-logo="https://i.imgur.com/Q14OCJK.jpg" group-title="VOD - Action", Night Riders (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/nightriders_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Notice (2021)" tvg-logo="https://i.imgur.com/0ZhR41j.jpg" group-title="VOD - Action", Red Notice (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/rednotice_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi and the Legend of the Ten Rings (2021)" tvg-logo="https://i.imgur.com/v22zEev.jpg" group-title="VOD - Action", Shang-Chi and the Legend of the Ten Rings (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/shangchiandthelegendofthetenrings_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Detective Conan - The Scarlet Bullet (2021)" tvg-logo="https://i.imgur.com/xhZAcoL.jpg" group-title="VOD - Animation", Detective Conan - The Scarlet Bullet (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/detectiveconanthescarletbullet_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Army of Thieves (2021)" tvg-logo="https://i.imgur.com/l0ljwzi.jpg" group-title="VOD - Action", Army of Thieves (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/armyofthieves_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Finch (2021)" tvg-logo="https://i.imgur.com/wA7Qjkm.jpg" group-title="VOD - Adventure", Finch (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/finch_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eternals (2021)" tvg-logo="https://i.imgur.com/pcj0QuX.jpg" group-title="VOD - Action", Eternals (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/eternals_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="King Arthur - Legend of the Sword (2017)" tvg-logo="https://i.imgur.com/ga50foB.jpg" group-title="VOD - Action", King Arthur - Legend of the Sword (2017)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/king_arthur_legend_of_the_sword_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil - Welcome to Raccoon City (2021)" tvg-logo="https://i.imgur.com/t5nXO3i.jpg" group-title="VOD - Action", Resident Evil - Welcome to Raccoon City (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/residentevilwelcometoraccooncity_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man - No Way Home (2021)" tvg-logo="https://i.imgur.com/AhmONx2.jpg" group-title="VOD - Action", Spider-Man - No Way Home (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/spidermannowayhome_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fast and Furious 9 (2021)" tvg-logo="https://i.imgur.com/IMTIPjq.jpg" group-title="VOD - Action", Fast and Furious 9 (2021)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/fastandfurious9_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Special Delivery (2022)" tvg-logo="https://i.imgur.com/h7AKPbF.jpg" group-title="VOD - Action", Special Delivery (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/specialdelivery_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dog (2022)" tvg-logo="https://i.imgur.com/Oxo11Mm.jpg" group-title="VOD - Drama", Dog (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/dog2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 20th Anniversary - Return To Hogwarts (2022)" tvg-logo="https://i.imgur.com/I4vnXW5.jpg" group-title="VOD - Documentary", Harry Potter 20th Anniversary - Return To Hogwarts (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/harrypotter20thanniversaryreturntohogwarts2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jakarta Vs Everybody (2022)" tvg-logo="https://i.imgur.com/t8QCmpM.jpg" group-title="VOD - Drama", Jakarta Vs Everybody (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/jakartavseverybody2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Contractor (2022)" tvg-logo="https://i.imgur.com/GgMRcrq.jpg" group-title="VOD - Action", The Contractor (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thecontractor2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Down With the King (2022)" tvg-logo="https://i.imgur.com/JPighdk.jpg" group-title="VOD - Drama", Down With the King (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/downwiththeking2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Haunting of the Tower of London (2022)" tvg-logo="https://i.imgur.com/g6eBOT1.jpg" group-title="VOD - Horror", The Haunting of the Tower of London (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thehauntingofthetoweroflondon2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange in the Multiverse of Madness (2022)" tvg-logo="https://i.imgur.com/2cE5BQ8.jpg" group-title="VOD - Action", Doctor Strange in the Multiverse of Madness (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/doctorstrangeinthemultiverseofmadness2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blowback (2022)" tvg-logo="https://i.imgur.com/ubAprnF.jpg" group-title="VOD - Action", Blowback (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/blowback2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man The Awakening (2022)" tvg-logo="https://i.imgur.com/Mw4nFrj.jpg" group-title="VOD - Action", Ip Man The Awakening (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/ipmantheawakening2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Wicked Wife (2022)" tvg-logo="https://i.imgur.com/qcgGla1.jpg" group-title="VOD - Thriller", The Wicked Wife (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thewickedwife2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Minions The Rise of Gru (2022)" tvg-logo="https://i.imgur.com/6mZ2h01.jpg" group-title="VOD - Animation", Minions The Rise of Gru (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/minionstheriseofgru2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Roundup (2022)" tvg-logo="https://i.imgur.com/PCZjy2n.jpg" group-title="VOD - Action", The Roundup (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/theroundup2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Purple Hearts (2022)" tvg-logo="https://i.imgur.com/ajeW1fr.png" group-title="VOD - Drama", Purple Hearts (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/purplehearts2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Gray Man (2022)" tvg-logo="https://i.imgur.com/W1KvlHe.jpg" group-title="VOD - Action", The Gray Man (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thegrayman2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sonic The Hedgehog 2 (2022)" tvg-logo="https://i.imgur.com/xwum4iZ.jpg" group-title="VOD - Animation", Sonic The Hedgehog 2 (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/sonicthehedgehog22022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tiga Janda Melawan Dunia (2022)" tvg-logo="https://i.imgur.com/d6zf4n3.jpg" group-title="VOD - Drama", Tiga Janda Melawan Dunia (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/tigajandamelawandunia2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World Dominion - Extended Version (2022)" tvg-logo="https://i.imgur.com/yEnKqNK.jpg" group-title="VOD - Action", Jurassic World Dominion - Extended Version (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/jurassicworlddominion2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KKN di Desa Penari (2022)" tvg-logo="https://i.imgur.com/2BKotnP.jpg" group-title="VOD - Horror", KKN di Desa Penari (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/kkndidesapenari2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun Maverick (2022)" tvg-logo="https://i.imgur.com/ksa62ab.jpg" group-title="VOD - Action", Top Gun Maverick (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/topgunmaverick2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DC League of Super Pets (2022)" tvg-logo="https://i.imgur.com/QkkVtib.jpg" group-title="VOD - Animation", DC League of Super Pets (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/dcleagueofsuperpets2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fullmetal Alchemist The Revenge of Scar (2022)" tvg-logo="https://i.imgur.com/83dSWzc.jpg" group-title="VOD - Action", Fullmetal Alchemist The Revenge of Scar (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/fullmetalalchemisttherevengeofscar2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marcel the Shell with Shoes On (2022)" tvg-logo="https://i.imgur.com/bL57AbM.jpg" group-title="VOD - Animation", Marcel the Shell with Shoes On (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/marceltheshellwithshoeson2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thor - Love and Thunder (2022)" tvg-logo="https://i.imgur.com/9nrkyJH.jpg" group-title="VOD - Action", Thor - Love and Thunder (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thorloveandthunder2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pinocchio (2022)" tvg-logo="https://i.imgur.com/cGvDFTD.jpg" group-title="VOD - Adventure", Pinocchio (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/pinocchio2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Emergency Declaration (2022)" tvg-logo="https://i.imgur.com/eRNBsHU.jpg" group-title="VOD - Action", Emergency Declaration (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/emergencydeclaration2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alienoid - Alien Human Part 1 (2022)" tvg-logo="https://i.imgur.com/zm6kkoM.jpg" group-title="VOD - Action", Alienoid - Alien Human Part 1 (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/alienoidalienhumanpart12022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Inang (2022)" tvg-logo="https://i.imgur.com/AH0ye6k.jpg" group-title="VOD - Horror", Inang (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/inang2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kuntilanak 3 (2022)" tvg-logo="https://i.imgur.com/3juzZbN.jpg" group-title="VOD - Horror", Kuntilanak 3 (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/kuntilanak32022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Strangers (2022)" tvg-logo="https://i.imgur.com/lAXJqIN.jpg" group-title="VOD - Drama", Perfect Strangers (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/perfectstrangers2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conjuring the Beyond (2022)" tvg-logo="https://i.imgur.com/Sjjt8aR.jpg" group-title="VOD - Horror", Conjuring the Beyond (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/conjuringthebeyond2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Garis Waktu (2022)" tvg-logo="https://i.imgur.com/k5g9iAj.jpg" group-title="VOD - Drama", Garis Waktu (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/gariswaktu2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mencuri Raden Saleh (2022)" tvg-logo="https://i.imgur.com/7YGNlel.jpg" group-title="VOD - Action", Mencuri Raden Saleh (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/mencuriradensaleh2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ngeri-Ngeri Sedap (2022)" tvg-logo="https://i.imgur.com/QRK6dON.jpg" group-title="VOD - Drama", Ngeri-Ngeri Sedap (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/ngeringerisedap2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The School For Good And Evil (2022)" tvg-logo="https://i.imgur.com/kqxKJZL.jpg" group-title="VOD - Action", The School For Good And Evil (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/theschoolforgoodandevil2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Doll 3 (2022)" tvg-logo="https://i.imgur.com/AGTYkFf.jpg" group-title="VOD - Horror", The Doll 3 (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thedoll32022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Menjelang Maghrib (2022)" tvg-logo="https://i.imgur.com/ErhuHsn.jpg" group-title="VOD - Horror", Menjelang Maghrib (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/menjelangmaghrib2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I Need You Baby (2022)" tvg-logo="https://i.imgur.com/wcETUQk.jpg" group-title="VOD - Drama", I Need You Baby (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/ineedyoubaby2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sabrina (2018)" tvg-logo="https://i.imgur.com/Kdn5o1i.jpg" group-title="VOD - Horror", Sabrina (2018)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/sabrina2018_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mengejar Surga (2022)" tvg-logo="https://i.imgur.com/kq8E3Sm.jpg" group-title="VOD - Drama", Mengejar Surga (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/mengejarsurga2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musyrik (2022)" tvg-logo="https://i.imgur.com/bVTFEUr.jpg" group-title="VOD - Horror", Musyrik (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/musyrik2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pengabdi Setan 2 - Communion (2022)" tvg-logo="https://i.imgur.com/ymY60Cn.jpg" group-title="VOD - Horror", Pengabdi Setan 2 - Communion (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/pengabdisetan2communion2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://i.imgur.com/lCmTQJi.jpg" group-title="VOD - Action", Enola Holmes 2 (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/enolaholmes22022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Satria Dewa Gatotkaca (2022)" tvg-logo="https://i.imgur.com/E0VPPK7.jpg" group-title="VOD - Action", Satria Dewa Gatotkaca (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/satriadewagatotkaca2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Guardians Of Time (2022)" tvg-logo="https://i.imgur.com/bHTT7wX.jpg" group-title="VOD - Action", Guardians Of Time (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/guardiansoftime2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Confidential Assignment 2 International (2022)" tvg-logo="https://i.imgur.com/WCFzLbk.jpg" group-title="VOD - Action", Confidential Assignment 2 International (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/confidentialassignment2international2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Troll (2022)" tvg-logo="https://i.imgur.com/DlOpUqo.jpg" group-title="VOD - Action", Troll (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/troll2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022)" tvg-logo="https://i.imgur.com/ZGPayTx.jpg" group-title="VOD - Action", Black Adam (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/blackadam2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blues Big City Adventure (2022)" tvg-logo="https://i.imgur.com/qPwgFQ6.jpg" group-title="VOD - Animation", Blues Big City Adventure (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/bluesbigcityadventure2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Guardians Of The Galaxy Holiday Special (2022)" tvg-logo="https://i.imgur.com/cmNgQbT.jpg" group-title="VOD - Action", The Guardians Of The Galaxy Holiday Special (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/theguardiansofthegalaxyholidayspecial2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Puss In Boots The Last Wish (2022)" tvg-logo="https://i.imgur.com/02bkheI.jpg" group-title="VOD - Animation", Puss In Boots The Last Wish (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/pussinbootsthelastwish2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry Cowboy Up (2022)" tvg-logo="https://i.imgur.com/osl2pbl.jpg" group-title="VOD - Animation", Tom And Jerry Cowboy Up (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/tomandjerrycowboyup2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Glass Onion A Knives Out Mystery (2022)" tvg-logo="https://i.imgur.com/1Qfc9YP.jpg" group-title="VOD - Drama", Glass Onion A Knives Out Mystery (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/glassonionaknivesoutmystery2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kamu Tidak Sendiri (2022)" tvg-logo="https://i.imgur.com/48JxlNC.jpg" group-title="VOD - Horror", Kamu Tidak Sendiri (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/kamutidaksendiri2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Big Four (2022)" tvg-logo="https://i.imgur.com/G6iX5Au.jpg" group-title="VOD - Action", The Big Four (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/thebigfour2022_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toros Pinocchio (2022)" tvg-logo="https://i.imgur.com/zguRYC4.jpg" group-title="VOD - Animation", Guillermo del Toros Pinocchio (2022)
+https://kliniktv.tech/play/user165@kliniktv.tech/81074874/Sdp0nTfo/pratensis/guillermodeltorospinocchio2022_pratensis/playlist.m3u8
